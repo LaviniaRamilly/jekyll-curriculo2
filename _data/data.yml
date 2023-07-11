@@ -5,33 +5,9 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
-  website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-
-languages:
-  - idiom: English
-    level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
-
-interests:
-  - name: Climbing
-    link:
-  - name: Snowboarding
-    link:
-  - name: Cooking
-    link:
+  email: ramillylavinia438@gmail.com
+  phone: (84)9 9115 1979
+  github: LaviniaRamill
 
 summary: |
   Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
@@ -41,123 +17,10 @@ summary: |
   Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
   Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
 
-education:
+educação:
   - degree: MSc in Computer Science
     university: University of London
     time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-      Donec pede justo, fringilla vel.
-        - Bullet point
-        - Bullet point
-    achievements:
-      desc: |
-        Praesentium voluptatum deleniti atque corrupti quos dolores et quas
-        molestias excepturi sint occaecati cupiditate non provident.
-      highlights:
-        - Lorem ipsum dolor sit amet, 80% consectetuer adipiscing elit.
-        - At vero eos et accusamus et iusto odio dignissimos.
-        - Blanditiis praesentium voluptatum deleniti atque corrupti.
-        - Maecenas tempus tellus eget.
-    technologies:
-      - Angular
-      - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
-
-  - role: Senior Software Developer
-    time: 2014 - 2018
-    company: Google
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.
-    achievements:
-      desc: |
-        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-    technologies:
-      - React
-      - Redux
-      - Django
-      - Webpack
-      - HTML/SASS
-      - MySQL
-
-  - role: Co-Founder & Lead Developer
-    time: 2012 - 2014
-    company: To-do Lists
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec.
-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes.
-    technologies:
-      - Django
-      - JavaScript
-      - Node.js
-      - Require.js
-      - HTML/SASS
-
-  - role: Web Developer
-    subrole: Intern
-    time: 2011 - 2012
-    company: Amazon
-    details: |
-      Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
-      Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec. Fusce vulputate eleifend sapien.
-      Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus.
-      Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum.
-    technologies:
-      - Ruby on Rails
-      - jQuery
-      - HTML/LESS
-      - MongoDB
-
-awards:
-  - name: Award Name Lorem
-    description: |
-      Award desc goes here, ultricies nec, pellentesque
-      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  - name: Award Name Lorem
-    description: |
-      Award desc goes here, ultricies nec, pellentesque
-      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
 
 # Projects are not used in this template for now
 projects:
