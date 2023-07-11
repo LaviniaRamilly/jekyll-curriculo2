@@ -6,8 +6,32 @@ header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: ramillylavinia438@gmail.com
-  phone: (84)9 9115 1979
-  github: LaviniaRamill
+  phone: (84) 9 9115 1979
+  website: https://yourwebsite.com
+  linkedin: 
+  github: LaviniaRamilly
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+languages:
+  - idiom: Português
+    level: Native
+  - idiom: 
+    level: 
+  - idiom: 
+    level: 
+
+interests:
+  - name: 
+    link:
+  - name: 
+    link:
+  - name: 
+    link:
 
 summary: |
   Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
@@ -17,59 +41,173 @@ summary: |
   Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
   Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
 
-educação:
-  - degree: MSc in Computer Science fwefwfwef
-    university: University of London
-    time: 2011 - 2012
+education:
+  - degree: Técnico em Informática
+    university: IFRN
+    time: 2023 - 2025
+    details: |
+      
+        - Bullet point
+        - Bullet point
+  - degree: Ensino Médio
+    university: Escola estadual João de Abreu
+    time: 2020 - 2022
+    details: |
+      
+        - Bullet point
+        - Bullet point
 
+experiences:
+  - role: 
+    time: - 
+    company: 
+    details: |
+      
+        - Bullet point
+        - Bullet point
+    achievements:
+      desc: |
+        
+      highlights:
+        - 
+        - 
+        - 
+        - 
+    technologies:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+
+  - role: 
+    time:
+    company: 
+    details: |
+      
+    achievements:
+      desc: |
+        
+    technologies:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+
+  - role: 
+    time: 
+    company: 
+    details: |
+      
+
+      
+    technologies:
+      - 
+      - 
+      - 
+      - 
+      - 
+
+  - role:
+    subrole:
+    time:
+    company: 
+    details: |
+      
+    technologies:
+      - 
+      - 
+      -
+
+awards:
+  - name: 
+    description: |
+      
+  - name: 
+    description: |
+      
 # Projects are not used in this template for now
 projects:
-  title: Projects
+  title: 
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
   assignments:
-    - title: Velocity
+    - title: 
       link: "#hook"
       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    - title: DevStudio
+    - title: 
       link: "#"
       tagline: "A responsive website template designed to help web developers/designers market their services."
 
-    - title: Tempo
+    - title: 
       link: "#"
       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-    - title: Atom
+    - title: 
       link: "#"
       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-    - title: Delta
+    - title:
       link: "#"
       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # Publications are not used in this template for now
 publications:
-  title: Publications
+  title: 
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    
   papers:
-    - title: The Art of Computer Programming
+    - title: 
       link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+      authors: 
+      conference: 
 
     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
       link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      authors: 
       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    - title: A syntax directed compiler for Algol 60
+    - title:
       link: "#"
       authors: Edgar T. Irons
       conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+  - category: Jogos
+    tools:
+      - name: Skyrim
+        level: 98%
+      - name: Oblivion
+        level: 98%
+      - name: Minecraft
+        level: 98%
+      - name: Dont Starve
+        level: 95%
+      - name: 
+        level: 85%
+  - category: Filmes
+    tools:
+      - name: Harry Potter
+        level: 95%
+      - name: Crõnicas de Narnia
+        level: 98%
+      - name: Coraline
+        level: 87%
+      - name: Animais Fantásticos
+        level: 92%
+  - category:
+    tools:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      -
+      - 
 
