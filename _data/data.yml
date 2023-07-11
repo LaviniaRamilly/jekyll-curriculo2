@@ -73,37 +73,3 @@ publications:
       authors: Edgar T. Irons
       conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-  - category: Frontend
-    tools:
-      - name: Angular
-        level: 98%
-      - name: React
-        level: 98%
-      - name: JavaScript
-        level: 98%
-      - name: Node.js
-        level: 95%
-      - name: HTML/CSS/SASS/LESS
-        level: 85%
-  - category: Backend
-    tools:
-      - name: Python/Django
-        level: 95%
-      - name: Ruby/Rails
-        level: 98%
-      - name: PHP
-        level: 87%
-      - name: WordPress/Shopify
-        level: 92%
-  - category: others
-    tools:
-      - DevOps
-      - Code Review
-      - Git
-      - Unit Testing
-      - Wireframing
-      - Sketch
-      - Balsamiq
-      - WordPress
-      - Shopify
